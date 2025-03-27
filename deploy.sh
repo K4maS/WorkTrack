@@ -11,6 +11,6 @@ git init
 git add -A
 git commit -m 'deploy'
 
-# git push -f git@github.com:K4maS/posts-test-mitrasoft.git master:gh-pages
+git push -f git@github.com:K4maS/WorkTrack.git master:gh-pages
 
 cd -
